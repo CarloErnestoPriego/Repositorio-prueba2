@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 1   0;
+    padding: 0;
+  }
+  
+  h1 {
+    color: darkgreen;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  h3 {
+    color: darkred;
+    font-size: 18px;
+    margin-top: 20px;
+  }
+  
+  p {
+    margin-bottom: 20px;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  h3 {
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  h3:last-child {
+    border-bottom: none;
+  }
+  
+  p {
+    text-align: justify;
+  }
+
+  p {
+    font-size: 14px;
+  }
